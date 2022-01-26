@@ -4,7 +4,7 @@ import requests
 def blind_content():
     print('--START ATTACKING--')
 
-    url = "http://202.125.94.123:2088/blind/"
+    url = "URL"
     id = 1
     out = ''
     while True:
